@@ -24,6 +24,6 @@ design palettes such as the one provided by
 use the [_Import Palette dialog_](https://docs.gimp.org/en/gimp-palette-dialog.html#gimp-palette-import).
 - Inkscape:
 copy the palette file to a location where Inkscape can
-see it and restart. This location is platform specific,
+see it and restart Inkscape if it was open. This location is platform specific,
 but on Linux it usually is some variation on
 `$HOME/.config/inkscape/palettes/`.
